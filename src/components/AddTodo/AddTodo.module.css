@@ -1,0 +1,9 @@
+.addTodoForm {
+  margin-top: 24px;
+  display: flex;
+  flex: 1;
+}
+
+.btn {
+  margin-left: 12px;
+}
